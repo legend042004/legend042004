@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**legend042004/legend042004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Om 👋
 
-Here are some ideas to get you started:
+### Aspiring Data Engineer | Python | SQL | Snowflake | Microsoft Fabric
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in building scalable data pipelines, developing ETL workflows, and working with modern cloud data platforms.
+
+### 🛠️ Technical Skills
+- **Programming:** Python, SQL
+- **Data Engineering:** ETL, Data Pipelines, Data Integration, Data Quality
+- **Cloud & Platforms:** Azure, Microsoft Fabric, Snowflake
+- **Big Data:** PySpark, Databricks
+- **Analytics:** Power BI, DAX, Power Query
+
+### 🚀 Featured Projects
+- Snowflake Data Quality Framework
+- Retail Sales Analysis Dashboard
+- ETL Pipeline Projects
+
+### 📚 Currently Learning
+- Microsoft Fabric
+- Azure Data Engineering
+- PySpark and Databricks
+
+### 📫 Connect with me
+- LinkedIn: www.linkedin.com/in/om-bahirat-7a04ab250
+- GitHub: https://github.com/legend042004
